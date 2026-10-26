@@ -12,73 +12,67 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Risda =====
-[1]Risda       |07:05:34 | 24-10-2026| login OK @zrisdaa | score=1890 rank=3934
-[1]Risda       |07:05:34 | 24-10-2026| serverTime=2026-10-24T07:05:34.000Z local=2026-10-24T07:05:34.405Z
+[1]Risda       |05:46:21 | 26-10-2026| login OK @zrisdaa | score=2100 rank=3660
+[1]Risda       |05:46:21 | 26-10-2026| serverTime=2026-10-26T05:46:20.000Z local=2026-10-26T05:46:21.105Z
 --> [1]Risda menjalankan: Claim Daily
-[1]Risda       |07:05:35 | 24-10-2026| daily: OK +10 poin score=1900
---> [1]Risda menjalankan: Auto All Tasks (7 pending)
-[1]Risda       |07:05:37 | 24-10-2026| [1/7] 50de6b49 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/zrisdaa/status/2113889160783627713
-[1]Risda       |07:05:37 | 24-10-2026| delay 10s...
-[1]Risda       |07:05:48 | 24-10-2026| [2/7] b772e482 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":20,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/zrisdaa/status/2113889057171867655
-[1]Risda       |07:05:48 | 24-10-2026| delay 10s...
-[1]Risda       |07:06:02 | 24-10-2026| [3/7] 58e687d8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":20,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/zrisdaa/status/2113889138250122604
-[1]Risda       |07:06:02 | 24-10-2026| delay 10s...
-[1]Risda       |07:06:13 | 24-10-2026| [4/7] 63ae925f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":20,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/zrisdaa/status/2113889467845365735
-[1]Risda       |07:06:13 | 24-10-2026| delay 10s...
-[1]Risda       |07:06:25 | 24-10-2026| [5/7] c7d975e4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/zrisdaa/status/2113889477573265802
-[1]Risda       |07:06:25 | 24-10-2026| delay 10s...
-[1]Risda       |07:06:37 | 24-10-2026| [6/7] f59f95ce (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/zrisdaa/status/2113889446916613819
-[1]Risda       |07:06:37 | 24-10-2026| delay 10s...
-[1]Risda       |07:06:48 | 24-10-2026| [7/7] 63f05488 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/zrisdaa/status/2113889459688028059
-[1]Risda       |07:06:48 | 24-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Risda       |07:06:50 | 24-10-2026| [1/1] 50de6b49 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113851006337568 | proof=https://x.com/zrisdaa/status/2113889650389439129
+[1]Risda       |05:46:22 | 26-10-2026| daily: OK +10 poin score=2110
+--> [1]Risda menjalankan: Auto All Tasks (8 pending)
+[1]Risda       |05:46:24 | 26-10-2026| [1/8] 30fecda0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/zrisdaa/status/2114593881628471131
+[1]Risda       |05:46:24 | 26-10-2026| delay 10s...
+[1]Risda       |05:46:36 | 26-10-2026| [2/8] 1db0caec (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/zrisdaa/status/2114594100297303375
+[1]Risda       |05:46:36 | 26-10-2026| delay 10s...
+[1]Risda       |05:46:48 | 26-10-2026| [3/8] 494e1b1b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/zrisdaa/status/2114594302800930521
+[1]Risda       |05:46:48 | 26-10-2026| delay 10s...
+[1]Risda       |05:47:00 | 26-10-2026| [4/8] 9b683957 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/zrisdaa/status/2114594273329893286
+[1]Risda       |05:47:00 | 26-10-2026| delay 10s...
+[1]Risda       |05:47:12 | 26-10-2026| [5/8] 4262aa80 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/zrisdaa/status/2114594369725124202
+[1]Risda       |05:47:12 | 26-10-2026| delay 10s...
+[1]Risda       |05:47:25 | 26-10-2026| [6/8] ed948baf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/zrisdaa/status/2114594458411056415
+[1]Risda       |05:47:25 | 26-10-2026| delay 10s...
+[1]Risda       |05:47:37 | 26-10-2026| [7/8] d23e8d85 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/zrisdaa/status/2114594212402094044
+[1]Risda       |05:47:37 | 26-10-2026| delay 10s...
+[1]Risda       |05:47:49 | 26-10-2026| [8/8] 33550c8b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/zrisdaa/status/2114594343092936633
+[1]Risda       |05:47:49 | 26-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Risda       |05:47:51 | 26-10-2026| [1/1] 30fecda0 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2114543843555385 | proof=https://x.com/zrisdaa/status/2114594360481809345
 --> [1]Risda menjalankan: Watch Anime
-[1]Risda       |07:06:50 | 24-10-2026| watch: semua video sudah completed
+[1]Risda       |05:47:51 | 26-10-2026| watch: semua video sudah completed
 --> [1]Risda menjalankan: Read Article
-[1]Risda       |07:06:52 | 24-10-2026| news: 27/30 artikel selesai dibaca
-[1]Risda       |07:06:53 | 24-10-2026| mint eligibility: {"userId":"1748178787953766400","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@zrisda","status":"submitted","revision":"6e5adc7f-f372-4504-ac4a-9b9216f32544","
-[1]Risda       |07:06:59 | 24-10-2026| news [1/3] road-to-mint-2026-10: OK completed=28
-[1]Risda       |07:07:07 | 24-10-2026| news [2/3] community-first-update-2026-10: OK completed=29
-[1]Risda       |07:07:15 | 24-10-2026| news [3/3] oshi-nft-price-and-basic-income-01: OK completed=30
+[1]Risda       |05:47:53 | 26-10-2026| news: 30/30 artikel selesai dibaca
+[1]Risda       |05:47:53 | 26-10-2026| mint eligibility: {"userId":"1748178787953766400","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@zrisda","status":"submitted","revision":"6e5adc7f-f372-4504-ac4a-9b9216f32544","
+[1]Risda       |05:47:53 | 26-10-2026| news: semua artikel sudah dibaca
 --> [1]Risda menjalankan: Quiz Anime
-[1]Risda       |07:07:18 | 24-10-2026| quiz ep1: sudah dijawab
-[1]Risda       |07:07:18 | 24-10-2026| quiz ep2: sudah dijawab
-[1]Risda       |07:07:18 | 24-10-2026| quiz ep3: sudah dijawab
-[1]Risda       |07:07:18 | 24-10-2026| quiz ep4: sudah dijawab
-[1]Risda       |07:07:18 | 24-10-2026| quiz ep5: sudah dijawab
-[1]Risda       |07:07:18 | 24-10-2026| quiz ep6: sudah dijawab
 --> [1]Risda menjalankan: Music Missions (realtime, bisa lama!)
-[1]Risda       |07:07:19 | 24-10-2026| music: kedua misi sudah tercapai, stop
-[1]Risda       |07:07:20 | 24-10-2026| mission music-listens-10: sudah diklaim
-[1]Risda       |07:07:20 | 24-10-2026| mission music-minutes-30: sudah diklaim
-[1]Risda       |07:07:20 | 24-10-2026| mission anime-completed-3: sudah diklaim
+[1]Risda       |05:47:57 | 26-10-2026| music: kedua misi sudah tercapai, stop
+[1]Risda       |05:47:58 | 26-10-2026| mission music-listens-10: sudah diklaim
+[1]Risda       |05:47:58 | 26-10-2026| mission music-minutes-30: sudah diklaim
+[1]Risda       |05:47:58 | 26-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Risda menjalankan: Claim Missions
-[1]Risda       |07:07:20 | 24-10-2026| mission music-listens-10: sudah diklaim
-[1]Risda       |07:07:20 | 24-10-2026| mission music-minutes-30: sudah diklaim
-[1]Risda       |07:07:20 | 24-10-2026| mission anime-completed-3: sudah diklaim
+[1]Risda       |05:47:58 | 26-10-2026| mission music-listens-10: sudah diklaim
+[1]Risda       |05:47:58 | 26-10-2026| mission music-minutes-30: sudah diklaim
+[1]Risda       |05:47:58 | 26-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Risda menjalankan: Check Eligibility
 
 --- eligibility [1]Risda ---
-  @zrisdaa | score=1890 rank=3934
-  tasks    [##############------] 16/23
+  @zrisdaa | score=2100 rank=3660
+  tasks    [--------------------] 0/8
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
-  quiz     [####################] 6/6
+  quiz     [?]
   watch    [####################] 22/17
-  music    [####################] 11/11
+  music    [##################--] 11/12
   artikel  [####################] 30/30
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Risda menjalankan: Read Manga
-[1]Risda       |07:07:24 | 24-10-2026| manga: 0/13 chapter belum completed
+[1]Risda       |05:48:02 | 26-10-2026| manga: 0/13 chapter belum completed
 --> [1]Risda menjalankan: Get Gift
-[1]Risda       |07:07:25 | 24-10-2026| gift: 0/4 belum diterima
+[1]Risda       |05:48:03 | 26-10-2026| gift: 0/4 belum diterima
 --> [1]Risda menjalankan: Setup Profile
-[1]Risda       |07:07:25 | 24-10-2026| profile: bio="https://x.com/zrisdaa" fav=yuki rewardAt=1791706348
-[1]Risda       |07:07:25 | 24-10-2026| profile: bonus sudah diklaim, skip
+[1]Risda       |05:48:04 | 26-10-2026| profile: bio="https://x.com/zrisdaa" fav=yuki rewardAt=1791706348
+[1]Risda       |05:48:04 | 26-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Risda menjalankan: Bind Wallet
-[1]Risda       |07:07:26 | 24-10-2026| wallet: sudah terikat CEK4DmpT8j... (solana)
+[1]Risda       |05:48:04 | 26-10-2026| wallet: sudah terikat CEK4DmpT8j... (solana)
 
 == RINGKASAN ==
-- Risda: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 3 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Risda: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
